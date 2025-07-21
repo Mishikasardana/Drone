@@ -1,8 +1,8 @@
- 🚁 Drone Project
+  Drone Project
 
 Welcome to the **Drone Project**! This repository contains code and documentation for a multifunctional drone that combines innovative features to provide an engaging and practical experience in automation and robotics.
 
-✨ Features  
+ Features  
 
 1. **Mapping**  
 - Create and visualize maps of the drone's surroundings.  
@@ -37,7 +37,7 @@ Welcome to the **Drone Project**! This repository contains code and documentatio
 - Use the drone for monitoring and surveillance, streaming live video feeds.  
 - Enhances security and remote observation capabilities.  
 
-📂 Directory Structure  
+ Directory Structure  
 ```plaintext
 Drone-Project/
 │── mapping/            # Code for mapping features
@@ -52,44 +52,13 @@ Drone-Project/
 └── README.md               # Project overview
 ```
 
-🛠️ Technologies Used  
+ Technologies Used  
 - **Programming Language**: Python  
 - **Hardware**: Compatible with popular drone kits (e.g., tello drones).  
 - **Libraries**: OpenCV, PyGame, and more.  
 
-🚀 Getting Started  
 
-Prerequisites  
-- Python 3.8 or higher  
-- Install dependencies using:  
-  ```bash
-  pip install -r requirements.txt
-  ```
-
-Running the Project  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/drone-project.git
-   cd drone-project
-   ```
-2. Run individual modules:  
-   ```bash
-   python src/movements/basic_movements.py
-   ```
-
-3. Combine modules for custom functionality as needed.  
-
-🤝 Contributing  
-Contributions are welcome! Please follow these steps:  
-1. Fork the repository.  
-2. Create a new branch:  
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes and push to the branch.  
-4. Open a pull request.  
-
-📜 License  
+ License  
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
 
 ## 📧 Contact  
